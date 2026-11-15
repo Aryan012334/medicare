@@ -108,3 +108,4 @@ export default function PatientDrawer({ patientId, onClose }) {
     </div>
   )
 }
+
