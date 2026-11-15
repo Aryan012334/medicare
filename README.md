@@ -215,3 +215,4 @@ All routes are prefixed with `/api` and require a `Authorization: Bearer <token>
 ---
 
 Built with ❤️ by [Aryan](https://github.com/Aryan012334) — feedback and stars appreciated!
+
