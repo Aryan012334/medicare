@@ -56,3 +56,4 @@ router.delete('/:id', requireRole('admin'), async (req, res) => {
 })
 
 export default router
+
