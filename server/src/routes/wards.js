@@ -106,3 +106,4 @@ router.post('/discharge/:admissionId', requireRole('admin', 'receptionist', 'doc
 })
 
 export default router
+
