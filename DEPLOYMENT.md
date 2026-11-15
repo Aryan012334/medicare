@@ -54,3 +54,4 @@ cd client && npm install && npm run dev   # UI  :3000
 - **Rate limiting** is per-serverless-instance; add Upstash Redis for strict global limits.
 - **Reset the local DB**: stop the server, delete `server/data/`, restart.
 - **CI**: GitHub Actions validates server syntax and builds the client on every push.
+
