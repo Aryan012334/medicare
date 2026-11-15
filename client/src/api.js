@@ -52,3 +52,4 @@ export const api = {
   patch: (url, body) => request(url, { method: 'PATCH', body }),
   del: (url) => request(url, { method: 'DELETE' })
 }
+
